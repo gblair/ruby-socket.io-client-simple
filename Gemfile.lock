@@ -1,11 +1,11 @@
 PATH
   remote: .
   specs:
-    socket.io-client-simple (1.2.1)
+    socket.io-client-simple (1.2.1re)
       event_emitter
       httparty
       json
-      websocket-client-simple (~> 0.3.0)
+      websocket-client-simple (~> 0.8.0)
 
 GEM
   remote: https://rubygems.org/
@@ -20,7 +20,7 @@ GEM
     multi_xml (0.6.0)
     rake (13.1.0)
     websocket (1.2.10)
-    websocket-client-simple (0.3.1)
+    websocket-client-simple (0.8.0)
       event_emitter
       websocket
 
